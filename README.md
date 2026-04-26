@@ -41,14 +41,3 @@ I am actively freelancing and collaborating on high-tier AI and Web projects. Le
 * **[🌐 Portfolio](https://shahzaibshafique.me)** - Explore my full range of work.
 
 ---
-
-## 📈 GitHub Activity
-![Shahzaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahzaib30&show_icons=true&theme=radical&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzaib30&layout=compact&theme=radical)
-
----
-
-## ⚡ Fun Fact
-> My Arch Linux setup is essentially the "external hard drive" for my brain; I automate my system configs so I can spend more time building agents that automate everything else.
-
-*"The best way to predict the future is to build a stateful agent to manage it."*
