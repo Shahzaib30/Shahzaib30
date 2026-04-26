@@ -24,12 +24,6 @@ I am a final-year Artificial Intelligence student, dedicated to building autonom
 
 ---
 
-## 🔬 Featured Projects
-* **[Automated TAVI Planning System](https://github.com/Shahzaib30):** A clinical-grade 3D aortic annulus segmentation system using the nnUNet framework.
-* **[Speech Emotion Recognition (SERS)](https://github.com/Shahzaib30):** Deep learning classification achieving >90% accuracy in vocal emotion detection.
-* **[Agentic-RAG](https://github.com/Shahzaib30/Agentic-RAG):** A state-of-the-art retrieval system using LangGraph for multi-step reasoning.
-
----
 
 ## 🔗 Professional Profiles
 I am actively freelancing and collaborating on high-tier AI and Web projects. Let's connect!
