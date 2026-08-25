@@ -1,6 +1,6 @@
 # Hi there, I'm Shahzaib Shafique 👋 
 
-### 🤖 Generative AI Engineer | Agentic AI Specialist | Full-Stack Developer
+### AI Engineer | Agentic & Generative AI | Web Development | Linux
 I am a final-year Artificial Intelligence student, dedicated to building autonomous, stateful multi-agent systems. I bridge the gap between complex AI research and scalable web applications, with a heavy focus on local LLM orchestration and Linux-based automation.
 
 ---
