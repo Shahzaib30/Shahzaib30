@@ -3,8 +3,8 @@
 I build production-grade AI systems — multi-agent pipelines, RAG applications,
 fine-tuned LLMs, and agentic workflows that automate real business problems.
 
-Currently focused on Anthropic's Claude ecosystem, LangGraph-based agent 
-orchestration, and local LLM deployment via Ollama + Unsloth.
+Currently focused on LangGraph-based agent orchestration, retrieval-augmented
+generation, and QLoRA/LoRA fine-tuning of open-weight LLMs.
 
 ---
 
@@ -14,8 +14,8 @@ orchestration, and local LLM deployment via Ollama + Unsloth.
   self-correction loops, human-in-the-loop gates
 - **RAG Pipelines** — document ingestion, semantic search, 
   conversational AI over custom knowledge bases  
-- **LLM Fine-tuning** — QLoRA/QLora with Unsloth on Qwen2.5, 
-  Phi-3.5 for domain-specific tasks
+- **LLM Fine-tuning** — QLoRA/PEFT on Mistral and Qwen models 
+  for domain-specific tasks
 - **AI-Powered Web Apps** — FastAPI backends + React/Next.js frontends 
   with real-time AI streaming
 
@@ -25,9 +25,9 @@ orchestration, and local LLM deployment via Ollama + Unsloth.
 
 | Layer | Tools |
 |---|---|
-| **AI / Agents** | LangChain, LangGraph, LangSmith, Anthropic Claude, OpenAI |
-| **RAG** | ChromaDB, pgvector, LlamaIndex, Pinecone |
-| **Fine-tuning** | PyTorch, Transformers, Unsloth, QLoRA, Ollama |
+| **AI / Agents** | LangChain, LangGraph, LangSmith, Anthropic Claude, Ollama |
+| **RAG** | ChromaDB, PgVector, FAISS, hybrid BM25 + dense retrieval |
+| **Fine-tuning** | PyTorch, Transformers, PEFT, QLoRA, TRL, bitsandbytes |
 | **Backend** | Python, FastAPI, PostgreSQL, Redis, Docker |
 | **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
 
@@ -41,19 +41,20 @@ Stateful multi-agent system with 5 specialist agents, consensus engine,
 `LangGraph` `Claude` `FastAPI` `Next.js` `Redis` `PostgreSQL`
 
 ### 📚 [Advanced RAG Assistant](https://github.com/Shahzaib30/advanced-rag-assistant)
-Production RAG pipeline with semantic chunking, hybrid search, 
-and conversational memory over custom document collections.
-`LangChain` `ChromaDB` `TypeScript` `OpenAI`
+Production RAG chatbot with a FastAPI/LangGraph backend, hybrid vector + lexical
+retrieval, a React admin dashboard, and an embeddable widget for lead capture.
+`LangGraph` `LangChain` `ChromaDB` `PostgreSQL` `Ollama`
 
 ### 🧠 [QLoRA RAG Chatbot](https://github.com/Shahzaib30/QLora-Rag-Chatbot)
-Fine-tuned LLM chatbot combining QLoRA fine-tuning with RAG retrieval 
-for domain-specific question answering.
-`Unsloth` `QLoRA` `RAG` `Ollama` `Python`
+Fine-tuned Mistral-7B with QLoRA on real doctor-patient conversations, benchmarked
+head-to-head against base and RAG-hybrid configurations for medical Q&A.
+`QLoRA` `PEFT` `RAG` `FastAPI` `Python`
 
-### 🔍 [Tavi Planning System](https://github.com/Shahzaib30/tavi-planning-system)
-Tavily-powered research and planning agent that autonomously 
-gathers, synthesizes, and structures information.
-`Tavily` `LangChain` `Python`
+### 🔍 [TAVI Planning System](https://github.com/Shahzaib30/tavi-planning-system)
+AI-powered pre-operative planning for Transcatheter Aortic Valve Implantation: 3D
+U-Net segmentation of cardiac CT scans, automatic valve/annulus measurements, and an
+LLM-assisted clinical review.
+`PyTorch` `MONAI` `FastAPI` `React` `Three.js`
 
 ---
 
@@ -61,4 +62,4 @@ gathers, synthesizes, and structures information.
 
 - 🟢 **Upwork** — [hire me](https://www.upwork.com/freelancers/~01774fb1bf81238658)
 - 💼 **LinkedIn** — [s-shahzaib](https://linkedin.com/in/s-shahzaib)
-- 🌐 **Portfolio** — [shahzaibshafique.me](https://shahzaibshafique.me)
+- 🌐 **Portfolio** — [shahzaib30.github.io](https://shahzaib30.github.io/)
