@@ -1,37 +1,64 @@
-# Hi there, I'm Shahzaib Shafique 👋 
+# Shahzaib Shafique — AI Engineer
 
-### AI Engineer | Agentic & Generative AI | Web Development | Linux
-I am a final-year Artificial Intelligence student, dedicated to building autonomous, stateful multi-agent systems. I bridge the gap between complex AI research and scalable web applications, with a heavy focus on local LLM orchestration and Linux-based automation.
+I build production-grade AI systems — multi-agent pipelines, RAG applications,
+fine-tuned LLMs, and agentic workflows that automate real business problems.
 
----
-
-## 🚀 Technical Focus
-* **Agentic AI:** Developing self-correcting, cyclic agents using **LangGraph** and **LangChain**.
-* **Generative AI:** Expert in fine-tuning and deploying local LLMs (Qwen2.5, Phi-3.5) via **Ollama**.
-* **Full-Stack Web Dev:** Building minimalist, "Quiet Luxury" aesthetic interfaces with professional SEO integration.
-* **Linux Power User:** Advanced system architecting on **Arch Linux** (Hyprland/Waybar) for optimized AI workflows.
+Currently focused on Anthropic's Claude ecosystem, LangGraph-based agent 
+orchestration, and local LLM deployment via Ollama + Unsloth.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## What I Build
 
-| Category | Technologies |
-| :--- | :--- |
-| **AI/ML** | Python, PyTorch, Transformers, RAG, LangGraph, LangChain, nnUNet |
-| **Web Dev** | React, Node.js, TypeScript, PostgreSQL, Tailwind CSS |
-| **Local AI** | Ollama, Unsloth (QLoRA), Vector Databases (ChromaDB, pgvector) |
-| **OS/Tools** | Arch Linux, Hyprland, Docker, Git, Obsidian (Second Brain) |
+- **Agentic AI** — stateful multi-agent systems with LangGraph, 
+  self-correction loops, human-in-the-loop gates
+- **RAG Pipelines** — document ingestion, semantic search, 
+  conversational AI over custom knowledge bases  
+- **LLM Fine-tuning** — QLoRA/QLora with Unsloth on Qwen2.5, 
+  Phi-3.5 for domain-specific tasks
+- **AI-Powered Web Apps** — FastAPI backends + React/Next.js frontends 
+  with real-time AI streaming
+
+---
+
+## Tech Stack
+
+| Layer | Tools |
+|---|---|
+| **AI / Agents** | LangChain, LangGraph, LangSmith, Anthropic Claude, OpenAI |
+| **RAG** | ChromaDB, pgvector, LlamaIndex, Pinecone |
+| **Fine-tuning** | PyTorch, Transformers, Unsloth, QLoRA, Ollama |
+| **Backend** | Python, FastAPI, PostgreSQL, Redis, Docker |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
 
 ---
 
+## Featured Projects
 
-## 🔗 Professional Profiles
-I am actively freelancing and collaborating on high-tier AI and Web projects. Let's connect!
+### 🤖 [MADE — Multi-Agent Decision Engine](https://github.com/Shahzaib30/Multi-Agent-Decision-Engine)
+Stateful multi-agent system with 5 specialist agents, consensus engine, 
+3-tier memory (Redis + ChromaDB), and full observability stack.
+`LangGraph` `Claude` `FastAPI` `Next.js` `Redis` `PostgreSQL`
 
-* **[💼 LinkedIn](https://linkedin.com/in/s-shahzaib)** - Professional networking and AI insights.
-* **[🟢 Upwork](https://www.upwork.com/freelancers/~01774fb1bf81238658)** - Hire me for Agentic AI & Web Development.
-* **[🚀 Fiverr](https://www.fiverr.com/s_shahzaib104)** - Specializing in SEO and Full-Stack services.
-* **[📊 Kaggle](https://www.kaggle.com/shahzaibshafique)** - Competitive Data Science and ML notebooks.
-* **[🌐 Portfolio](https://shahzaibshafique.me)** - Explore my full range of work.
+### 📚 [Advanced RAG Assistant](https://github.com/Shahzaib30/advanced-rag-assistant)
+Production RAG pipeline with semantic chunking, hybrid search, 
+and conversational memory over custom document collections.
+`LangChain` `ChromaDB` `TypeScript` `OpenAI`
+
+### 🧠 [QLoRA RAG Chatbot](https://github.com/Shahzaib30/QLora-Rag-Chatbot)
+Fine-tuned LLM chatbot combining QLoRA fine-tuning with RAG retrieval 
+for domain-specific question answering.
+`Unsloth` `QLoRA` `RAG` `Ollama` `Python`
+
+### 🔍 [Tavi Planning System](https://github.com/Shahzaib30/tavi-planning-system)
+Tavily-powered research and planning agent that autonomously 
+gathers, synthesizes, and structures information.
+`Tavily` `LangChain` `Python`
 
 ---
+
+## Let's Work Together
+
+- 🟢 **Upwork** — [hire me](https://www.upwork.com/freelancers/~01774fb1bf81238658)
+- 💼 **LinkedIn** — [s-shahzaib](https://linkedin.com/in/s-shahzaib)
+- 🌐 **Portfolio** — [shahzaibshafique.me](https://shahzaibshafique.me)
